@@ -5,6 +5,7 @@
 Este proyecto introduce varias optimizaciones y mejoras, destacando por su enfoque modular y la implementación de características avanzadas.
 
 🚀 Características Principales
+
 Extensión de API: Se incorporan nuevas funcionalidades a la API existente, permitiendo consultas especializadas y gestionando de manera eficaz el retorno de los datos.
 
 Consultas Personalizadas con JPA: Mediante anotaciones como @Query y métodos específicos, se mejoran las consultas a la base de datos, garantizando flexibilidad y eficiencia.
